@@ -1,0 +1,22 @@
+[
+  {
+    "task_id": "task_1775004630_0",
+    "description": "Write unit tests for an existing function",
+    "difficulty": "medium",
+    "category": "coding",
+    "created_at": "2026-04-01T00:50:30.901134",
+    "completed": true,
+    "completion_time": "2026-04-01T00:50:30.903008",
+    "score": 0.9
+  },
+  {
+    "task_id": "task_1775004630_1",
+    "description": "Beginner: Study agentic workflow patterns and their applications",
+    "difficulty": "easy",
+    "category": "research",
+    "created_at": "2026-04-01T00:50:30.910424",
+    "completed": true,
+    "completion_time": "2026-04-01T00:50:30.913908",
+    "score": 0.8
+  }
+]
