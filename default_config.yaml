@@ -1,0 +1,8 @@
+self_questioning_enabled: true
+task_generation_frequency: 60
+self_navigating_enabled: true
+experience_pool_size: 1000
+self_attributing_enabled: true
+credit_assignment_depth: 5
+session_duration: 30
+auto_schedule: false
