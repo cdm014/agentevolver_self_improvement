@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+
+# Runtime self-improvement state
+data/*.json
+
+# Local logs and transient artifacts
+logs/
